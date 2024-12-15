@@ -14,5 +14,5 @@ Bu projede kardiyovasküler kalp hastalıkları ile ilgili bir veri seti analiz 
 
 1. **Veri Görselleştirme:** Veri setini daha iyi anlamak ve keşfetmek için çeşitli türde görselleştirmeler yapılmıştır.
 2. **SVM Hiperparametre Ayarı:** Destek Vektör Makinesi (SVM) modeline ait `C` ve `gamma` gibi hiperparametreler optimize edilerek model performansı geliştirilmiştir.
-3. **Model Doğruluğu:** Modelin değerlendirilmesi sonucunda **0.848** doğruluk skoru elde edilmiştir.
+3. **Model Doğruluğu:** Modelin değerlendirilmesi sonucunda **0.848** doğruluk elde edilmiştir.
 4. **Kod Belgelendirmesi:** Kod içerisinde markdown hücreler aracılığıyla her adıma dair açıklamalar mevcuttur.
