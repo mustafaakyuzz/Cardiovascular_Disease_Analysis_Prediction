@@ -1,6 +1,6 @@
 # Cardiovascular Heart Disease Prediction Project
 
-## Overview (English)
+## Overview - EN :
 This project involves analyzing a dataset related to cardiovascular heart diseases. Below is a summary of the key steps undertaken in this project:
 
 1. **Data Visualization:** Various types of visualizations were performed to explore and understand the dataset better.
@@ -9,7 +9,7 @@ This project involves analyzing a dataset related to cardiovascular heart diseas
 4. **Code Documentation:** Markdown cells within the code provide detailed explanations of each step for clarity and reproducibility.
 
 
-## Genel Bakış (Türkçe)
+## Genel Bakış - TR :
 Bu projede kardiyovasküler kalp hastalıkları ile ilgili bir veri seti analiz edilmiştir. Aşağıda proje boyunca gerçekleştirilen ana adımların özeti verilmiştir:
 
 1. **Veri Görselleştirme:** Veri setini daha iyi anlamak ve keşfetmek için çeşitli türde görselleştirmeler yapılmıştır.
